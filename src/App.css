@@ -1,0 +1,12 @@
+* {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 50%
+}
